@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\bin\Debug\Assessm_Address_Book.exe.config
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\bin\Debug\Assessm_Address_Book.exe
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\bin\Debug\Assessm_Address_Book.pdb
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\bin\Debug\Assessm_Address_Book.xml
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.vbprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.Form1.resources
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.Resources.resources
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.vbproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.exe
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.xml
+D:\visual studio 2015\Projects\Assessm_Address_Book\Assessm_Address_Book\obj\Debug\Assessm_Address_Book.pdb
